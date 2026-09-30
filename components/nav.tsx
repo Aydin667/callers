@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import { WalletButton } from "./wallet-button";
 
 const links = [
-  { href: "/launch", label: "launch" },
+  { href: "/launch", label: "open a window" },
   { href: "/launches", label: "launches" },
   { href: "/how", label: "how it works" },
 ];
